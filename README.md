@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 ## Running an experiment
 
-Here we provide the implementation of Stratified Client Selection Scheme along with MNIST, FMNIST and CIFAR-10 dataset. This code takes as input:
+Here we provide the implementation of Stratified Client Selection Scheme along with MNIST and CIFAR-10 dataset. This code takes as input:
 
 - The `dataset` used.
 - The data `partition` method used. partition ∈ { iid, dir_{alpha}}
